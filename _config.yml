@@ -42,7 +42,7 @@ plugins:
 # added pages folder
 include: ["_pages"]
 
-#defaults:
+defaults:
 #  # _posts
 #  - scope:
 #      path: ""
@@ -54,13 +54,13 @@ include: ["_pages"]
 #      comments: true
 #      share: true
 #      related: true
-#  # _pages
-#  - scope:
-#      path: ""
-#      type: pages
-#    values:
-#      layout: single
-#      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
