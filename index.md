@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /
 title: "Harpal Sahota"
 header:
   overlay_color: "#000"
