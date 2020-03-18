@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Data Scientist \/ Developer \/ Visualiser \/ Tech Support for Mum and Dad"
 intro: 
-  - excerpt: "UNDER CONSTRUCTION"
+  - excerpt: 'UNDER CONSTRUCTION'
 feature_row2:
   - image_path: /assets/images/test.jpg
     alt: "placeholder image 2"
