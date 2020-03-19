@@ -17,7 +17,7 @@ programming:
 ai:
   - image_path: /assets/images/sklearn_logo.png
   - image_path: /assets/images/pytorch_logo.png
-  - image_path: /assets/images/tensorflow_logo2.png
+  - image_path: /assets/images/tensorflow_logo.png
 web_dev:
   - image_path: https://raw.githubusercontent.com/d3/d3-logo/master/d3.png
   - image_path: https://img.icons8.com/color/480/000000/angularjs.png
