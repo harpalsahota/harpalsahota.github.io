@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/test.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Data Scientist \\ Developer \\ Visualiser &#124; Tech Support for Mum and Dad"
+excerpt: "Data Scientist &#124; Developer &#124; Visualiser &#124; Tech Support for Mum and Dad"
 intro: 
   - excerpt: 'UNDER CONSTRUCTION'
 feature_row2:
