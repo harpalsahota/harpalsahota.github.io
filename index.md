@@ -21,6 +21,8 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+author: Harpal Sahota
+classes: wide
 ---
 
 {% include feature_row id="intro" type="center" %}
