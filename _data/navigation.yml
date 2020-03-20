@@ -1,4 +1,5 @@
 main:
   - title: "Medium Articles"
+    url: /medium-articles
   - title: "Popular Visualisations"
   - title: "Packages Developed"
