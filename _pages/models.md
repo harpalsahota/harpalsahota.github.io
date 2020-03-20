@@ -13,6 +13,7 @@ deployed_models:
     excerpt: "A Steam game recommender with a slight difference in that you can customise your recommendations"
     url: "http://ec2-18-202-21-30.eu-west-1.compute.amazonaws.com/"
 author: Harpal Sahota
+classes: wide
 ---
 {% if page.text %}{{ page.text }}{% endif %}
 {% include feature_row id="deployed_models" type="left" %}

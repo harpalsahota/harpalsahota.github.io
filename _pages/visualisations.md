@@ -29,6 +29,7 @@ visualisations:
     excerpt: "Visualising Conway's game Of life"
     url: "https://www.drdatascience.co.uk/portfolio/conways-game-of-life"
 author: Harpal Sahota
+classes: wide
 ---
 {% if page.text %}{{ page.text }}{% endif %}
 {% include feature_row id="visualisations" type="left" %}
