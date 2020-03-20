@@ -2,6 +2,7 @@ main:
   - title: "Medium Articles"
     url: /medium-articles
   - title: "Popular Visualisations"
+    url: /visualisations
   - title: "Packages Developed"
     url: /packages
   - title: "Deployed Models"
