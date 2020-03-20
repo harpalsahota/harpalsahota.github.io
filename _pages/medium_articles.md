@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/medium_articles.jpg
 text: "Below is a list of my Medium articles. Have a read and leave me clap if you think it's any good"
-programming:
+articles:
   - image_path: https://cdn.pixabay.com/photo/2018/08/17/22/36/m31-3613931_960_720.jpg
     title: "Google’s EfficientDet: An Overview"
     excerpt: "Reviewing Google's EfficientDet along with the work that lead to the development to this model"
@@ -24,4 +24,4 @@ author: Harpal Sahota
 classes: wide
 ---
 {% if page.text %}{{ page.text }}{% endif %}
-{% include feature_row id="programming" type="left" %}
+{% include feature_row id="articles" type="left" %}
