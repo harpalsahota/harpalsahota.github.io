@@ -3,5 +3,6 @@ main:
     url: /medium-articles
   - title: "Popular Visualisations"
   - title: "Packages Developed"
+    url: /packages
   - title: "Deployed Models"
     url: /models
