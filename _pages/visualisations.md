@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /visualisations
-title: "Models"
+title: "Popular Visualisations"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://images.unsplash.com/photo-1515524738708-327f6b0037a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
-text: "Over the years I've developed a few models, below is a list of them which are deployed and free to use"
+text: "A big passion of mine is creating interactive visualisations. Here are some of the more popular ones as determined by the internet authority that is Reddit"
 visualisations:
   - image_path: assets/images/daylight_hours.png
     title: "Daylight Hours"
