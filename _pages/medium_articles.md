@@ -8,6 +8,10 @@ header:
   overlay_image: /assets/images/medium_articles.jpg
 text: "Below is a list of my Medium articles. Have a read and leave me clap if you think it's any good"
 articles:
+  - image_path: https://miro.medium.com/max/1400/1*S8Cwmo2i7-cQz2O_HtlpfQ.png
+    title: "BBAug"
+    excerpt: "A Package for Bounding Box Augmentation"
+    url: "https://towardsdatascience.com/bbaug-a-package-for-bounding-box-augmentation-in-pytorch-e9b9fbf1504b"
   - image_path: https://cdn.pixabay.com/photo/2018/08/17/22/36/m31-3613931_960_720.jpg
     title: "Google’s EfficientDet: An Overview"
     excerpt: "Reviewing Google's EfficientDet along with the work that lead to the development to this model"
